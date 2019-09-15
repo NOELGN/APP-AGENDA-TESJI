@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda TESJI</string>
+    <string name="titulo_bienvenida">BIENVENIDO A AGENDA TESJI</string>
+    <string name="alta_carrera">ALTA CARRERA</string>
+    <string name="busc_act_elim">BUSCAR-ACTUALIZAR-ELIMINAR</string>
+    <string name="reporte_carrera">REPORTE CARRERA</string>
+    <string name="alta_alumno">ALTA ALUMNO</string>
+    <string name="busc_act_elim_alum">BUSCAR-ACTUALIZAR-ELIMINAR ALUMNO</string>
+    <string name="reporte_alumno">VER AGENDA</string>
+</resources>
